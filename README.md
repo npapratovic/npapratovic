@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+- 🔭 I’m currently working as PHP developer in Rijeka (Coratia) based company
+- Everyday tools and technologies I use are: YII2 (PHP framework), WordPress CMS, HTML, CSS, JavaScript, jQuery, Git, SSH, YouTrack
+- I am all-rounder with a focus on constant learning with almost 10 years in web development
+
 <!--
 **npapratovic/npapratovic** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
