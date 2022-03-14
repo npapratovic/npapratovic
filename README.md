@@ -1,8 +1,8 @@
 ### Hi there 👋
 
-I’m currently working as PHP developer in Rijeka (Coratia) based company 
+I’m currently working as PHP developer in Rijeka (Croatia) based company 
 
-Everyday tools and technologies I use are: YII2 (PHP framework), WordPress CMS, HTML, CSS, JavaScript, jQuery, Git, SSH, YouTrack
+Everyday tools and technologies I use are: Yii2 (PHP framework), WordPress CMS, HTML, CSS, JavaScript, jQuery, Git, SSH, YouTrack
 
 I am all-rounder with a focus on constant learning with almost 10 years in web development
 
