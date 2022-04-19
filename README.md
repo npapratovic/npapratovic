@@ -1,11 +1,12 @@
 ### Hi there 👋
 
+I have almost 10 years in professional web development, most of the time I was working in agencies building different kind of websites. 
+
 I’m currently working as PHP developer in Rijeka (Croatia) based company 
 
-Everyday tools and technologies I use are: Yii2 (PHP framework), WordPress CMS, HTML, CSS, JavaScript, jQuery, Git, SSH, YouTrack
+Everyday tools and technologies I use are: Yii2 (PHP framework), Bootstrap (frontend framework), MySQL, HTML, CSS, JavaScript, jQuery, Git, SSH, YouTrack, WordPress as CMS (and almost all popular page builders -> Gutenberg, Elementor, Divi Builder, WPBakery, Visual Composer... )
 
-I am all-rounder with a focus on constant learning with almost 10 years in web development
-
+ 
 <!--
 **npapratovic/npapratovic** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
