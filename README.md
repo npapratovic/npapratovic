@@ -1,10 +1,10 @@
 ### Hi there 👋
 
-I have almost 10 years in professional web development, most of the time I was working in agencies building different kind of websites. 
+Despite the fact that I have almost 10 years in professional web development, most of the time I was working in agencies building different kind of websites. Working in web design agency means to be "Jack of all trades, master of none", and over time I realised that I need to focus on one thing, and master it. Now, my focus is backend development, primarily in PHP.  
 
-I’m currently working as PHP developer in Rijeka (Croatia) based company 
+I’m currently working as Backend PHP developer in Rijeka (Croatia) based company 
 
-Everyday tools and technologies I use are: Yii2 (PHP framework), Bootstrap (frontend framework), MySQL, HTML, CSS, JavaScript, jQuery, Git, SSH, YouTrack, WordPress as CMS (and almost all popular page builders -> Gutenberg, Elementor, Divi Builder, WPBakery, Visual Composer... )
+Everyday tools and technologies I use are: Yii2 (PHP framework), Bootstrap (frontend framework), MySQL, HTML, CSS, JavaScript, jQuery, Git, SSH, YouTrack, WordPress 
 
  
 <!--
