@@ -2,11 +2,11 @@
 
 My focus is backend development, primarily in PHP.
 
-I’m currently working as (remote) PHP developer in Rijeka (Croatia) based company
+I’m currently working as (remote) PHP developer in Slavonski Brod (Croatia) based company (with HQ in Cincinnati, OH - USA)
 
-Everyday tools and technologies I use are: Yii2 (PHP framework), Bootstrap (frontend framework), MySQL, HTML, CSS/SASS, JavaScript, jQuery, Git, SSH, YouTrack+JIRA+Productive, WordPress, Linux shell
+Everyday tools and technologies I use are: Laravel (PHP framework), Postman, MySQL, JavaScript (both Vanilla.js and React framework), Git, Gitlab, shell
 
-My long-term goal is to become an even better developer (both backend and frontend). At the moment I consider myself as mid-level developer with aspiration to become senior PHP developer in under 5 years.
+My long-term goal is to become an even better developer (both backend and frontend). 
 
 Types of projects I have been working on:
 
